@@ -1,5 +1,7 @@
 # Asynchronous RAG Production Engine
 
+[![CI Evals](https://github.com/TEJSARISA/rag-production-engine/actions/workflows/ci-evals.yml/badge.svg)](https://github.com/TEJSARISA/rag-production-engine/actions/workflows/ci-evals.yml)
+
 Production-ready, modular, and fully deployable asynchronous Retrieval-Augmented Generation (RAG) API service with background document ingestion, vector search with PostgreSQL (`pgvector`), Redis task queuing, automated LLM evaluations (`DeepEval`), and Docker deployment configurations.
 
 ---
